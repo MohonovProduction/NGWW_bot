@@ -1,3 +1,9 @@
 {
-  "commands": []
+  "commands": [
+    {
+      "command": "/start",
+      "description": "Отправить заявку",
+      "scope": "all_private_chats"
+    }
+  ]
 }
