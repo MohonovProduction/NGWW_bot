@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a2a26bd-2c72-4103-9555-3e52eca08d0d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.env_example" beforeDir="false" afterPath="$PROJECT_DIR$/.env_example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682600627464</updated>
       <workItem from="1682600629390" duration="1300000" />
-      <workItem from="1682804677392" duration="1357000" />
+      <workItem from="1682804677392" duration="6550000" />
     </task>
     <servers />
   </component>
